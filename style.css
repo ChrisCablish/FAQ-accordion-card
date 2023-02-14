@@ -143,6 +143,7 @@ h1 {
 .accordion__collapse {
     transition: height 300ms ease;
 }
+
 .accordion__collapse.collapse {
     display: none;
 }
@@ -154,14 +155,12 @@ h1 {
 
 .accordion__collapse.open{
     display: block;
-
 }
 
 
 /*DESKTOP STYLES*/
 
 @media (min-width: 56em) {
-
     body {
         padding: 2rem;
         display: flex;
@@ -185,7 +184,6 @@ h1 {
     transform: translateX(-50%) translateY(-50%);
     top: 57%;
     z-index: 1;
-
    }
 
    .card__image, 
@@ -200,7 +198,6 @@ h1 {
    .card__image {
     display: flex;
     align-items: center;
-    
     overflow: hidden;
    }
 
@@ -211,8 +208,6 @@ h1 {
     left: auto;
     position: relative;
    }
-
-
 }
 
 
