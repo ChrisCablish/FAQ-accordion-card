@@ -12,5 +12,5 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
 
- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+ Solution URL: https://github.com/ChrisCablish/FAQ-accordion-card
+- Live Site URL: https://chriscablish.github.io/FAQ-accordion-card/
